@@ -1,0 +1,113 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "name": "Jon Zhu 3",
+      "ctime": "2013/09/02",
+      "status": "Non-Active",
+      "notes": [
+        "hahahaha"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kobe",
+      "ctime": "2013/09/02",
+      "status": "Current",
+      "notes": [
+        "this is a bad guy"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Brant",
+      "ctime": "2013/09/02",
+      "status": "Current",
+      "notes": [
+        "now he need to effort"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "xiao aiping",
+      "ctime": "2013/09/02",
+      "status": "Current",
+      "notes": [
+        "this is a bad guy",
+        "now he need to effort"
+      ]
+    },{
+        "id": 6,
+        "name": "Jon Zhu 3",
+        "ctime": "2013/09/02",
+        "status": "Non-Active",
+        "notes": [
+          "hahahaha"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Kobe",
+        "ctime": "2013/09/02",
+        "status": "Current",
+        "notes": [
+          "this is a bad guy"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Brant",
+        "ctime": "2013/09/02",
+        "status": "Current",
+        "notes": [
+          "now he need to effort"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "xiao aiping",
+        "ctime": "2013/09/02",
+        "status": "Current",
+        "notes": [
+          "this is a bad guy",
+          "now he need to effort"
+        ]
+      },{
+        "id": 10,
+        "name": "Jon Zhu 3",
+        "ctime": "2013/09/02",
+        "status": "Non-Active",
+        "notes": [
+          "hahahaha"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Kobe",
+        "ctime": "2013/09/02",
+        "status": "Current",
+        "notes": [
+          "this is a bad guy"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Brant",
+        "ctime": "2013/09/02",
+        "status": "Current",
+        "notes": [
+          "now he need to effort"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "xiao aiping",
+        "ctime": "2013/09/02",
+        "status": "Current",
+        "notes": [
+          "this is a bad guy",
+          "now he need to effort"
+        ]
+      }
+  ]
+}
