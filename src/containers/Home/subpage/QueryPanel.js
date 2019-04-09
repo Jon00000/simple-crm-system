@@ -12,9 +12,9 @@ class QueryPanel extends Component {
             } 
             if(obj[key]){
                 if(key==='name'||key==='id'){
-                    queryStr=queryStr+key+'_like'+'='+obj[key]+'&' ;   
+                    queryStr=`${queryStr}${key}_like=${obj[key]}&` ;   
                 } else {
-                    queryStr=queryStr+key+'='+obj[key]+'&' ;
+                    queryStr=`${queryStr}${key}=${obj[key]}&` ;
                 }
             }        
                  
@@ -33,6 +33,10 @@ class QueryPanel extends Component {
         }).catch(ex => {
             console.log('get users error')
         })
+    }
+    componentDidMount(){
+        const values = {status:'All'}
+        this.handleSubmit(values)
     }
     render(){
         return(
